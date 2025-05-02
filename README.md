@@ -20,7 +20,7 @@ I'm a passionate developer focused on building creative, efficient, and impactfu
 
 ## 📫 How to reach me
 - 📧 thakrepiyoosh04@gmail.com
-- 🌐 rongq.site
+- 🌐 https://rongq.site
 
 ---
 
