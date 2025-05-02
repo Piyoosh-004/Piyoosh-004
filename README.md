@@ -19,7 +19,7 @@ I'm a passionate developer focused on building creative, efficient, and impactfu
 - **Others**: Linux, Docker, IPFS, libp2p
 
 ## 📫 How to reach me
-- 📧 [Your Email Address Here]
+- 📧 thakrepiyoosh04@gmail.com
 - 🌐 [rongq.site]
 
 ---
